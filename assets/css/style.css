@@ -68,9 +68,10 @@
 	  position: relative; 
 	  top: -60px; 
 	  left: 20px; 
+	  font-size: 20px;
 	  width: 275px;
 	  height: 30px;
-	  line-height: 2;
+	  line-height: 1.25;
 	  background-color: rgb(15, 50, 138);
 	  color: rgb(254, 241, 236);
   
@@ -304,6 +305,7 @@
 		  left: 0px; 
 		  width: 98%;
 		  height: 60px;
+		  font-size: 24px;
 		  line-height: 2;
 		  background-color: rgb(15, 50, 138);
 		  color: rgb(254, 241, 236);
@@ -349,6 +351,7 @@
   .inptFld{
 	  clear: both;
 	  margin: 5px 20px;
+	  text-align: left;
 	  width: 92%;
 	  border: 1px solid rgb(203, 203, 203)
 	  }
@@ -371,8 +374,8 @@
 	  background-color: rgb(238, 239, 238);
   } 
   .imgIco{
-	  width: 40px;
-	  height: 40px;
+	  width: 60px;
+	  height: 60px;
 	  margin: 0px -3px 30px;
 	  padding: 0;
   }
